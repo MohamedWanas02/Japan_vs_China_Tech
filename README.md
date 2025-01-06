@@ -2,7 +2,7 @@
 
 This repository contains a Power BI project that compares the technology sectors of Japan and China. The analysis highlights key metrics and trends, offering insights into the technological advancements and industry performance of both countries.
 
-![Screenshot (315)](https://github.com/user-attachments/assets/96f2a72e-b16d-43de-9496-464a89a10d9d)
+![Screenshot (316)](https://github.com/user-attachments/assets/625f1b71-9bf7-43ea-aea8-bd4e92f3bf91)
   
 ## Table of Contents
 
